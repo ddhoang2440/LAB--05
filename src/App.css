@@ -1,0 +1,5 @@
+/* Map full screen */
+.leaflet-container {
+  height: 100vh;   /* chiếm toàn bộ chiều cao viewport */
+  width: 100vw;    /* chiếm toàn bộ chiều rộng viewport */
+}
